@@ -47,6 +47,7 @@ try:
             element.click()
             time.sleep(1)
             unfollowbutton = driver.find_element(By.XPATH, "//span[@class='artdeco-button__text' and text()='Unfollow']")
+            
             unfollowbutton.click()
             time.sleep(1)
 
