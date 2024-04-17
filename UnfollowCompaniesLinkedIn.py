@@ -21,8 +21,10 @@ username_input.send_keys("youremail") # set the actual email here
 password_input = driver.find_element(By.ID, value="session_password")
 password_input.send_keys("yourpassword") # set the actual password here
 
-# add code here to click sign in button instead of below line
-input("Log in to your LinkedIn account in the opened browser and press Enter here once done...")
+btnSignIn = driver.find_element(By.CSS_SELECTOR, 'button[data-id="sign-in-form__submit-btn"]')
+btnSignIn.click()
+time.sleep(5)
+
 
 try:
     # #=============================Uncomment this section for company unfollowing=============================
@@ -41,15 +43,15 @@ try:
     time.sleep(5)  # wait for page to load
 
     # Loop to unfollow companies
-    while True:
-        elements = driver.find_elements(By.XPATH, "//span[@class='artdeco-button__text' and text()='Following']")
-        for element in elements:
-            element.click()
-            time.sleep(1)
-            unfollowbutton = driver.find_element(By.XPATH, "//span[@class='artdeco-button__text' and text()='Unfollow']")
-            
-            unfollowbutton.click()
-            time.sleep(1)
+    
+    elements = driver.find_elements(By.XPATH, "//span[@class='artdeco-button__text' and text()='Following']")
+    for element in elements:
+        element.click()
+        time.sleep(1)
+        unfollowbutton = driver.find_element(By.XPATH, "//span[@class='artdeco-button__text' and text()='Unfollow']")
+        
+        unfollowbutton.click()
+        time.sleep(1)
 
 finally:
     driver.quit()

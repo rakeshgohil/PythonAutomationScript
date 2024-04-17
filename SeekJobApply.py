@@ -42,7 +42,7 @@ try:
 
         job_titles = driver.find_elements(By.CSS_SELECTOR, 'a[data-automation="jobTitle"]')
         for job_title in job_titles:
-            if 'C#' in job_title.text or '.net' in job_title.text.lower():
+            if 'c#' in job_title.text.lower() or '.net' in job_title.text.lower():
                 href = job_title.get_attribute('href')
                 hrefsAll.append(href)
 
@@ -55,10 +55,12 @@ try:
         i = i + 1
 
     for href in hrefsAll:
+        print(href)
         driver.get(href)
         btnQuickApply = driver.find_element(By.CSS_SELECTOR, 'a[data-automation="job-detail-apply"]')
         if(btnQuickApply.text.lower() != 'quick apply'):
             hrefsNotSubmitted.append(href)
+            print("not submitted")
             continue
         if(btnQuickApply is not None):
             btnQuickApply.click()
@@ -78,12 +80,16 @@ try:
             btnSubmit = find_element_safe(driver, By.CSS_SELECTOR, 'button[data-testid="review-submit-application"]')
             if(btnSubmit is not None):
                 btnSubmit.click()
-                time.sleep(3)                
+                time.sleep(3)         
+                print("submitted")       
                 hrefsSubmitted.append(href)
             else:
+                print("not submitted")
                 hrefsNotSubmitted.append(href)
 
     for href in hrefsNotSubmitted:
+        print("not submitted hrefssssssssss")
+        print(href)
         js_script = f"window.open('{href}', '_blank');"
         driver.execute_script(js_script)
     
