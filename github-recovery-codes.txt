@@ -17,3 +17,114 @@ e8772-30c51
 J@jt2iTaiY!syaB
 ChangeMe1st!
 J@jt2iTaiY!syaB
+==============================================================================
+
+Fork Tool
+Visual Studio Componenets
+
+==============================================================================
+
+Respected
+Sir/Madam,
+
+This is to bring your kind notice that I hereby apply for the position mentioned in the subject line.
+
+I have completed my graduation from Gujarat University with a Bachelor of Engineering in Computer Branch. I can speak English, Hindi, and Gujarati fluently, and I have more than 11 years of experience in VB 6.0, VB.Net, C#.Net, WPF, WCF, MVC, ASP.Net Core, Angular, SQL, Access, and Crystal Reports. I have also experience in a migration project and conversion project from VB 6.0 to C#/VB.net.
+
+Relative experience is as per the following
+Total Experience in software development: 11+ Years
+C#.Net: 8+ Years
+WPF: 5+ Years
+MVVM: 5+ Years
+WCF: 4+ Years
+VB 6.0: 6+ Years
+ASP.Net MVC: 4 Years
+HTML, CSS, JavaScript, jQuery: 4 Years
+Web API and Web Services: 3 Years
+Azure and DevOps: 3 Years
+ASP.Net Core: 1 Year
+Angular: 1 Year
+SQL: 9 Years
+Current CTC: 30 LPA
+Exp. CTC: 39 LPA(negotiable)
+Notice Period: Immediate Joiner within 15 days
+Reason for change in job: Company has no project work so I am on unpaid leave now and looking for job.
+Offer in hand: No
+Current Location: Surat, India(Remote Job)
+Preferred Location: Remote Job
+
+I have knowledge of Material Life Cycle, Collateral Management, POS(Point of Sales System), and Sage Accpac ERP. I attached my resume for your personal use.
+
+I have done Microsoft's professional certification in SQL Querying.
+
+Note: I also have a US B1 visa.
+ 
+If given the chance, I will strive for your entire satisfaction.
+
+A good response would be highly appreciated.
+
+Thanks and Regards,
+Rakesh Gohil
+==============================================================================
+
+LinkedIn Update : 
+Profile:
+	Headline : Student of Master of Computer Science at University of Wollongong, Wollongong, NSW, Australia.
+Edcation:
+	School:
+Show school in my intro
+Location:
+	Everything
+
+Add education section later
+
+<span class="artdeco-button__text">
+    Following
+</span>	
+
+element_xpath = "//span[@class='artdeco-button__text' and text()='Following']"
+
+edwinpbaby4@gmail.com
+
+Hi Medha,
+
+Thanks for your response.
+
+Please find below the required detail and the attached file for my updated resume.
+
+Full Name: Rakeshkumar Kalubhai Gohil
+Mobile Number: +917698784947
+Email : gohil_rakesh98@yahoo.com/rakesh.gohil2001@gmail.com
+Skills : Mentioned in the resume
+Current company : Not working
+Total experience : 11 Years
+Relevant Experience in various technologies as follow:
+		C#.Net: 8+ Years
+		WPF: 5+ Years
+		MVVM: 5+ Years
+		WCF: 4+ Years
+		VB 6.0: 6+ Years
+		ASP.Net MVC: 4+ Years
+		Web API and Web Services: 3 Years
+		Azure and DevOps: 3 Years
+		ASP.Net Core: 6 Months
+		Angular: 6 Months
+		SQL: 9 Years
+Current CTC: 30 LPA
+Expected CTC: 36 LPA
+Offer in Hand: No
+Current Location: Surat(remote job)
+Preferred Location: remote job
+Notice Period* (Last working day)* 13-May-2024
+Carrier gap* : 2 years initially after graduation 
+Education gap*: No
+PAN Card Number* ATYPG5948C
+Highest qualification*(Regular): B.E.(Computer)
+DOB*: 21-Nov-19987
+Do you have PF(Yes/No)* : Yes but not for the last organization
+Do you have all the Documents & experience letters of previous companies?*: Yes, I have all the documents.
+
+Please let me know if you require any further information.
+
+Thanks & Regards,
+Rakesh Gohil
